@@ -1,0 +1,42 @@
+.nan{
+    margin-top: 100px;
+    margin-left: 240px;
+
+.nan__list:nth-child(2){
+    display: flex;
+    list-style: none;
+}
+    
+.nan__item{
+    padding-left: 95px;
+}
+
+.nan__heading3{
+    color: #333D4B;
+    font-family: "Fraunces 9pt";
+    font-size: 32px;
+    line-height: 36px;
+}
+
+.nan__text{
+    color: #333D4B;
+    font-family: "Barlow";
+    font-size: 16px;
+    margin-bottom: 50px;
+}
+
+.nan__heading2{
+    margin-left: 95px;
+    margin-bottom: 72px;
+    color: #83888F;
+    font-family: "Fraunces" 9pt;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 32px;
+}
+
+.nan__list{
+    list-style: none;
+}
+}
